@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-freescale",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CMSIS Core Implementation for Freescale MCUs",
   "keywords": [
     "cmsis"
@@ -14,8 +14,8 @@
   "license": "Apache-2",
   "dependencies": {},
   "targetDependencies": {
-    "k64f":{
-      "cmsis-core-k64f":"ARMmbed/cmsis-core-k64f#~0.0.1"
+    "k64f": {
+      "cmsis-core-k64f": "ARMmbed/cmsis-core-k64f#~0.0.1"
     }
   }
 }
