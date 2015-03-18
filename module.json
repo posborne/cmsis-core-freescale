@@ -15,7 +15,7 @@
   "dependencies": {},
   "targetDependencies": {
     "k64f": {
-      "cmsis-core-k64f": "ARMmbed/cmsis-core-k64f#~0.0.1"
+      "cmsis-core-k64f": "ARMmbed/cmsis-core-k64f-private#~0.1.0"
     }
   }
 }
