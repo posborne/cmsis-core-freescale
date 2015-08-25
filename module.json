@@ -12,7 +12,7 @@
     "type": "git"
   },
   "homepage": "https://github.com/ARMmbed/cmsis-core-freescale",
-  "license": "Apache-2",
+  "license": "Apache-2.0",
   "dependencies": {},
   "targetDependencies": {
     "k64f": {
