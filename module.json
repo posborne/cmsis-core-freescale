@@ -15,7 +15,7 @@
   "dependencies": {},
   "targetDependencies": {
     "k64f": {
-      "cmsis-core-k64f": "~0.1.0"
+      "cmsis-core-k64f": "~0.2.0"
     }
   }
 }
