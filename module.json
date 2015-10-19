@@ -3,7 +3,9 @@
   "version": "0.2.0",
   "description": "CMSIS Core Implementation for Freescale MCUs",
   "keywords": [
-    "cmsis"
+    "cmsis",
+    "mbed",
+    "mbed-official"
   ],
   "author": "Brendan Moran <brendan.moran@arm.com>",
   "repository": {
@@ -15,7 +17,7 @@
   "dependencies": {},
   "targetDependencies": {
     "k64f": {
-      "cmsis-core-k64f": "~0.2.0"
+      "cmsis-core-k64f": "^1.0.0"
     }
   }
 }
